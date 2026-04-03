@@ -1,0 +1,25 @@
+text,label
+"hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr.",1
+abcd.gmail.com,0
+gov.in,0
+gov.in,0
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr.""
+abcd.gmail.com",1
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr.""
+abcd@gmail.com",1
+abcd@gmai.com,0
+abcd@gmail.com,0
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr.""
+abcd@gmail.com",1
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr.""
+abcd@gmail.com",1
+abcd@gov.in,0
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr."",1
+abcd.gmail.com,0",1
+"""hy, there is lot of rush in our company, i want you to contact us on whatsapp and first pay 500 to book your meeting with our hr."",1
+abcd@gmail.com,0",1
+abcd@gmail.com,0
+pay,1
+abc@gmai.com,0
+pay,1
+abcd@gmail.com,0
